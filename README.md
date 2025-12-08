@@ -8,12 +8,14 @@ This repository contains lecture notes and materials from **Code2Data Academy** 
 - Topic: integers vs floats, basic arithmetic operators, floor division, modulo and exponentiation.
 - Format: PDF lecture notes.
 - File: see the `Lecture_1_ Integers, Floats & Math Operations in Python` PDF in this repository.
-- 
+- Video: https://youtu.be/46_9QNIz6WY?si=a5IFVt6OajBrXgnr
+  
 ## Lecture 2 – What is a Variable?
 
 - Topic: variables in Python, data storage, naming rules, assignments and dynamic typing.
 - Format: PDF lecture notes.
-- File: see the `Lecture_2_ What is a Variable` PDF in this repository. 
+- File: see the `Lecture_2_ What is a Variable` PDF in this repository.
+- Video: https://youtu.be/2FEI7o7WkvE?si=LY3_0XR8io3kP91S
 
 
 ## How to use these notes
@@ -21,7 +23,6 @@ This repository contains lecture notes and materials from **Code2Data Academy** 
 1. Open the PDF file from the file list above.
 2. View it in your browser or download it for offline study.
 3. Follow along with the corresponding Code2Data Academy lecture/video.
-Video: https://youtu.be/46_9QNIz6WY?si=a5IFVt6OajBrXgnr
 ---
 
 More Python and data science lectures will be added here over time.
