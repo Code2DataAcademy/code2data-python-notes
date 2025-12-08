@@ -17,6 +17,12 @@ This repository contains lecture notes and materials from **Code2Data Academy** 
 - File: see the `Lecture_2_ What is a Variable` PDF in this repository.
 - Video: https://youtu.be/2FEI7o7WkvE?si=LY3_0XR8io3kP91S
 
+## Lecture 3 – Python Strings
+
+- Topic: strings in Python, indexing, slicing, concatenation and common string methods.
+- Format: PDF lecture notes.
+- File: see the `Lecture_3_ Strings in Python` PDF in this repository.
+- Video: https://youtu.be/97vJisr1jmg?si=KyToLXchcyaYcwGY
 
 ## How to use these notes
 
