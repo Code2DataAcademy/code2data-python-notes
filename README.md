@@ -28,5 +28,7 @@ This repository contains lecture notes and materials from **Code2Data Academy** 
 More Python and data science lectures will be added here over time.
 
 Join us on WhatsApp: https://whatsapp.com/channel/0029Vb65PSC5EjxqwVjysR20
+
 Join us on YouTube: https://youtube.com/@code2dataacademy?si=eHQjs9zY4_f33m5m
+
 Join us on Instagram: https://www.instagram.com/code2data_academy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
