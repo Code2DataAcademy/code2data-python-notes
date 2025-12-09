@@ -31,6 +31,14 @@ This repository contains lecture notes and materials from **Code2Data Academy** 
 - File: see the `Lecture_4_ The print Function in Python` PDF in this repository.
 - Video: https://youtu.be/tx6Yw-xe96c?si=ZwsCKjaVKDeYy2TQ
 
+## Lecture 5 – Format Strings in Python
+
+- Topic: format strings in Python, using f-strings, the `format()` method, format specifiers for numbers (decimal places, alignment, percentages), and combining text with variables and expressions.  
+- Format: PDF lecture notes.  
+- File: see the `Lecture_5_ Format Strings in Python` PDF in this repository.  
+- Video: https://youtu.be/D-HQao42Whs?si=54x5Xu3BFW6OyzG7
+
+
 ## How to use these notes
 
 1. Open the PDF file from the file list above.
