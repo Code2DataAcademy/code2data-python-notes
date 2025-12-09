@@ -24,6 +24,13 @@ This repository contains lecture notes and materials from **Code2Data Academy** 
 - File: see the `Lecture_3_ Strings in Python` PDF in this repository.
 - Video: https://youtu.be/97vJisr1jmg?si=KyToLXchcyaYcwGY
 
+## Lecture 4 – print() Function
+
+-Topic: using the print() function in Python, basic syntax, printing multiple values, sep and end parameters, escape characters, and printing variables and formatted output.
+-Format: PDF lecture notes.
+-File: see the `Lecture_4_ The print Function in Python` PDF in this repository.
+-Video: https://youtu.be/tx6Yw-xe96c?si=ZwsCKjaVKDeYy2TQ
+
 ## How to use these notes
 
 1. Open the PDF file from the file list above.
